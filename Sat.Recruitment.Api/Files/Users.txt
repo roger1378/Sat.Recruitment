@@ -1,0 +1,5 @@
+Roger Lopez,roger@tes.com,123123123,Panama,Normal,1377.60
+Roger,roger@tes.com,123123123,Panama,Normal,137.76
+Roger,roger@tes1.com,123123123,Panama,Normal,137.76
+Roger L,roger@tes.com,123123123,Panama,Normal,23.04
+Roger L,roger@tes.com,123123123,Panama,SuperUser,12

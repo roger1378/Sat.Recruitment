@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/Sat.Recruitment.Api/obj
+/Sat.Recruitment.Api/bin/Debug/net6.0
+/Sat.Recruitment.Test/bin/Debug/net6.0
+/Sat.Recruitment.Test/obj
