@@ -10,7 +10,7 @@ Se puede realizar cualquier cambio que considere necesario en el código y en lo
 - El código debe seguir los principios de la programación orientada a objetos (SOLID, DRY, etc...).
 - El código resultante debe ser mantenible y extensible.
 
-##Solution:
+###Solution:
 
 - Analyze the requeriment and the project in general.
 - Separate the all code in layers and simplify the code.
@@ -22,5 +22,5 @@ Se puede realizar cualquier cambio que considere necesario en el código y en lo
   Services --> Manega de business logic related with the user, add validations, manage errors.
   Util --> Add definition for generic objects and functions.
 
-##Note:
+###Note:
 I've apply the best practices I know, SOLID principles, DRY, design patterns, Singleton.
